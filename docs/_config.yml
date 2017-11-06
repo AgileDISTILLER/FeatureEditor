@@ -1,1 +1,27 @@
-theme: jekyll-theme-cayman
+# Site settings
+title:
+email:
+description: > # this means to ignore newlines until "baseurl:"
+  AgileDISTILLER Feature Editor
+  Smart Editor for BDD Gherkin Cucumber Feature Files
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# User setting
+owner: AgileDISTILLER
+email: admin@agiledistiller.com
+facebook_username:
+twitter_username: AgileDISTILLER
+github_username: AgileDISTILLER/FeatureEditor
+address:
+  - line:
+  - line:
+  # Feel free to add more lines here
+telephone:
+copyright:
+
+# API settings
+google_api_key:
+
+# Build settings
+markdown: kramdown
