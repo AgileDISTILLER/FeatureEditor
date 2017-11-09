@@ -211,9 +211,6 @@ hr.small {
     margin: 0 auto;
 }
 
-.img-thumbnail {
-    height: 150px;
-}
 .img-portfolio:hover {
     opacity: 0.8;
 }
